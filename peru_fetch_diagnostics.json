@@ -5,16 +5,16 @@
       "attempt": 1,
       "status_code": 200,
       "response_headers": {
-        "Date": "Tue, 13 Oct 2026 01:32:15 GMT",
+        "Date": "Tue, 13 Oct 2026 12:50:35 GMT",
         "Content-Type": "text/html; charset=utf-8",
         "Transfer-Encoding": "chunked",
         "Connection": "keep-alive",
         "Cache-Control": "private,max-age=300",
         "Content-Encoding": "gzip",
-        "Age": "78",
+        "Age": "200",
         "Vary": "*"
       },
-      "body_length": 122572,
+      "body_length": 122570,
       "body_snippet": "<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"es-PE\">\r\n<head>\r\n    \r\n    <title>Bolsa de trabajo en Per&#xFA; | Portal de trabajo Computrabajo</title>\r\n\r\n    <meta name=\"title\" content=\"Bolsa de trabajo en Per&#xFA; | Portal de trabajo Computrabajo\" />\r\n    <meta name=\"description\" content=\"Descubre ofertas en la bolsa de trabajo l&#xED;der de Per&#xFA;. Sube tu CV y post&#xFA;late gratis a vacantes activas dentro del Portal de Computrabajo \" />\r\n    <meta name=\"author\" content=\"Computrabajo Per&#xFA;\" />\r\n    <meta property=\"og:title\" content=\"Bolsa de trabajo en Per&#xFA; | Portal de trabajo Computrabajo\" />\r\n    <meta property=\"og:description\" content=\"Descubre ofertas en la bolsa de trabajo l&#xED;der de Per&#xFA;. Sube tu CV y post&#xFA;late gratis a vacantes activas dentro del Portal de Computrabajo \" />\r\n    <meta property=\"og:site_name\" content=\"Computrabajo Per&#xFA;\" />\r\n    <meta property=\"og:type\" content=\"website\" />\r\n    <meta property=\"og:image\" conte",
       "block_signature_matched": null,
       "final_url_after_redirects": "https://pe.computrabajo.com/"
